@@ -23,3 +23,22 @@ main button {
 main button:hover {
   background-color: #2681F2;
 }
+
+.mytext {
+  color: white;
+  left: 100%;
+  font-size: 28px;
+  margin:0;
+  display:inline-block; 
+  white-space:nowrap;
+  animation-name:danmaku;
+  animation-timing-function:linear;
+  animation-duration:7s;
+  animation-iteration-count:1;
+  position:absolute;
+  display: inline-block;
+}
+@keyframes danmaku {
+  from   { left: 100%;} 
+  99%,to { left: -100%;}
+}
