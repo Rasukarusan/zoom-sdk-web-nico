@@ -1,6 +1,6 @@
 # 記事
 
-https://qiita.com/Rasukarusan/items/6694229dbd9b746efcb5
+[ZOOM会議をニコニコ動画風にする](https://qiita.com/Rasukarusan/items/6694229dbd9b746efcb5)
 
 # Zoom Meeting SDK Sample React
 
