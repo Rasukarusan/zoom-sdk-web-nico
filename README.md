@@ -1,3 +1,7 @@
+# 記事
+
+https://qiita.com/Rasukarusan/items/6694229dbd9b746efcb5
+
 # Zoom Meeting SDK Sample React
 
 Use of this sample app is subject to our [Terms of Use](https://zoom.us/docs/en-us/zoom_api_license_and_tou.html).
